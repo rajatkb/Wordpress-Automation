@@ -3,6 +3,7 @@ I have a personnel blog where i post question for my friends in order to help th
 
 it  uses most of the inbuilt modules
 the external dependencies are
+
 1. requests : for getting the html web page
 
 *for now whenever i run the script it updates the folder based on what questions i have upadated on the site.
